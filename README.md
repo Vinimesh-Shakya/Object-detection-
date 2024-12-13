@@ -12,7 +12,6 @@ This Jupyter Notebook demonstrates how to implement an object detection system u
 - **Convolutional Neural Networks (CNN)**: The core object detection model is built on CNNs, known for their exceptional performance in visual data tasks.
 - **MobileNet Architecture**: MobileNet, a highly efficient deep learning model, is used to ensure the system runs smoothly on devices with limited computational power without sacrificing accuracy.
 - **TensorFlow Integration**: TensorFlow is used to build and train the model, ensuring flexibility and scalability in deploying the object detection system.
-- **Real-Time Detection**: The project supports real-time object detection, demonstrating proficiency in integrating machine learning models with computer vision techniques.
 
 ## Contents
 1. **Libraries**: Importing all essential libraries, including OpenCV, TensorFlow, NumPy, and Matplotlib.
